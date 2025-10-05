@@ -166,3 +166,4 @@ C:\Users\Administrator\Desktop\LewisStoreSystem\LewisStore.API\obj\Debug\net9.0\
 C:\Users\Administrator\Desktop\LewisStoreSystem\LewisStore.API\obj\Debug\net9.0\LewisStore.API.pdb
 C:\Users\Administrator\Desktop\LewisStoreSystem\LewisStore.API\obj\Debug\net9.0\LewisStore.API.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\LewisStoreSystem\LewisStore.API\obj\Debug\net9.0\ref\LewisStore.API.dll
+C:\Users\Administrator\Desktop\LewisStoreSystem\LewisStore.API\obj\Debug\net9.0\LewisStore.API.sourcelink.json
