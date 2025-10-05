@@ -2,6 +2,7 @@
 
 <h1> File Structure Overview: </h1>
 
+```txt
 LewisStoreSystem/
 │
 ├── LewisStore.API/        → ASP.NET Core backend (Controllers, Models, Repos)
@@ -13,3 +14,5 @@ LewisStoreSystem/
 │   └── appsettings.json
 │
 └── lewisstore-frontend/   → React app (UI for managers + customers)
+
+```
